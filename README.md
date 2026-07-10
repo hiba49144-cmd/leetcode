@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hiba49144-cmd/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hiba49144-cmd/leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/hiba49144-cmd/leetcode/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hiba49144-cmd/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hiba49144-cmd/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hiba49144-cmd/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
