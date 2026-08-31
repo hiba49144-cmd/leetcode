@@ -1,4 +1,4 @@
-import heapq
+
 
 class Solution(object):
     def mergeKLists(self, lists):
@@ -9,7 +9,7 @@ class Solution(object):
         
         heap = []
 
-        # Put the first node of each linked list into the heap
+    
         for i, node in enumerate(lists):
             if node:
                 heapq.heappush(heap, (node.val, i, node))
@@ -20,11 +20,11 @@ class Solution(object):
         while heap:
             value, i, node = heapq.heappop(heap)
 
-            # Add smallest node to the result
+           
             current.next = node
             current = current.next
 
-            # Add the next node from the same list
+           
             if node.next:
                 heapq.heappush(heap, (node.next.val, i, node.next))
 
