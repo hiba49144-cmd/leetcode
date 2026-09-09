@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hiba49144-cmd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiba49144-cmd/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hiba49144-cmd/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hiba49144-cmd/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/hiba49144-cmd/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiba49144-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hiba49144-cmd/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hiba49144-cmd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hiba49144-cmd/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hiba49144-cmd/leetcode/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hiba49144-cmd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hiba49144-cmd/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -174,4 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hiba49144-cmd/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
