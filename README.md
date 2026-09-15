@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hiba49144-cmd/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hiba49144-cmd/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/hiba49144-cmd/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/hiba49144-cmd/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/hiba49144-cmd/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiba49144-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -95,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/hiba49144-cmd/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/hiba49144-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hiba49144-cmd/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hiba49144-cmd/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiba49144-cmd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hiba49144-cmd/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hiba49144-cmd/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hiba49144-cmd/leetcode/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hiba49144-cmd/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/hiba49144-cmd/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hiba49144-cmd/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/hiba49144-cmd/leetcode/tree/master/0042-trapping-rain-water) |
 ## Simulation
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hiba49144-cmd/leetcode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hiba49144-cmd/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
