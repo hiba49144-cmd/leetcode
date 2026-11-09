@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/hiba49144-cmd/leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/hiba49144-cmd/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/hiba49144-cmd/leetcode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/hiba49144-cmd/leetcode/tree/main/0619-biggest-single-number/) | Easy |
