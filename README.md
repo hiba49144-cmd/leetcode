@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/hiba49144-cmd/leetcode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/hiba49144-cmd/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/hiba49144-cmd/leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/hiba49144-cmd/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1148-article-views-i](https://github.com/hiba49144-cmd/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/hiba49144-cmd/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hiba49144-cmd/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
