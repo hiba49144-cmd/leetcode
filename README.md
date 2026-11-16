@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/hiba49144-cmd/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/hiba49144-cmd/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hiba49144-cmd/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/hiba49144-cmd/leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/hiba49144-cmd/leetcode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/hiba49144-cmd/leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/hiba49144-cmd/leetcode/tree/master/1683-invalid-tweets) |
